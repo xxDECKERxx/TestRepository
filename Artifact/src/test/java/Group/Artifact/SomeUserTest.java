@@ -4,7 +4,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class SomeUserTest {
-	//yay tests
+	//yay testssadf
 	@Test
 	public void testSomeUser() {
 		SomeUser testSomeUser = new SomeUser();
